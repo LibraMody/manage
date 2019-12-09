@@ -1,0 +1,56 @@
+{ 
+    "diarys": [
+        {
+            "title": "周二",
+            "sections": [
+                { "content": "有名万物之母" },
+                { "content": "无名天地之始" },
+                { "content": "名可名  非常名" },
+                { "content": "道可道  非常道" }     
+            ],
+             "qute": "--《道德经》" 
+        },
+        {
+            "title": "周三",
+            "sections": [
+                { "content": "天地生万物" },
+                { "content": "阴阳为天地" },
+                { "content": "一气分阴阳" },
+                { "content": "大道生一气" },
+                { "content": "自然生大道" },
+                { "content": "虚无生自然" }
+            ],
+            "qute": "--《紫清指玄集》" 
+        },
+        {
+            "title": "周四",
+            "sections": [
+                { "content": "天有所短" },
+                { "content": "地有所长" },
+                { "content": "圣有所否" },
+                { "content": "物有所通" }
+            ],
+            "qute": "--《列子•天瑞》" 
+        },
+        {
+            "title": "周五",
+            "sections": [
+                { "content": "上德不德" },
+                { "content": "是以有德" },
+                { "content": "下德不失德" },
+                { "content": "是以无德" }
+            ],
+            "qute": "--《老子》" 
+        },
+        {
+            "title": "周六",
+            "sections": [
+                { "content": "至人之用心若境" },
+                { "content": "不将不迎" },
+                { "content": "应而不藏" },
+                { "content": "故能胜物而不伤" }
+            ],
+            "qute": "--《庄子•应帝王》" 
+        }
+    ]
+}

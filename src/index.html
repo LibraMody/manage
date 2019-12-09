@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<div id="app">
+</div>
+<% for (var js_index in htmlWebpackPlugin.files.js) { %>
+    <script src="<%= htmlWebpackPlugin.files.js[js_index] %>"></script>
+<% } %>
+    

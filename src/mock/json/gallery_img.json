@@ -1,0 +1,22 @@
+{
+    "images": [
+        {
+            "src": "./img/Carousel1.jpg"
+        },
+        {
+            "src": "./img/Carousel2.jpg"
+        },
+        {
+            "src": "./img/Carousel3.jpg"
+        },
+        {
+            "src": "./img/Carousel4.jpg"
+        },
+        {
+            "src": "./img/Carousel5.jpg"
+        },
+        {
+            "src": "./img/Carousel6.jpg"
+        }
+    ]
+}
